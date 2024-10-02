@@ -1,5 +1,7 @@
 # **Multiple Object States Transition (MOST) Dataset**
 
+![](../images/MOST_videos_short.gif)
+
 ## **Data Overview**
 
 We provide two sets of annotations:  
