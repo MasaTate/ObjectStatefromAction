@@ -1,4 +1,4 @@
-# **ObjectStatefromAction**
+# **Learning Object States from Actions via Large Language Models**
 
 [**Learning Object States from Actions via Large Language Models**](https://arxiv.org/abs/2405.01090)  
 **Masatoshi Tateno**, **Takuma Yagi**, **Ryosuke Furuta**, **Yoichi Sato**
