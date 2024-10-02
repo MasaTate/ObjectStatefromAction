@@ -12,7 +12,7 @@
 
 
 ### 🚀 **News**
-We are excited to release the **MOST** dataset as part of this project!  
+We are excited to release the [**MOST** dataset](./MOST_dataset/) as part of this project!  
 Training and evaluation code will be coming soon, so stay tuned!
 
 
