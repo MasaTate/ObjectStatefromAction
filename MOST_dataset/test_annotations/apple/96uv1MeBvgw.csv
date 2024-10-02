@@ -1,0 +1,16 @@
+state,start,end
+whole,28.66,38.05
+peeled,32.65,35.16
+cut,35.2,38.05
+sliced,0.0,28.63
+sliced,101.5,112.8
+sliced,38.09,79.43
+cooked,0.0,28.62
+cooked,101.5,112.8
+baked,101.5,112.8
+baked,0.0,28.62
+mixed with other ingredients,0.0,28.63
+mixed with other ingredients,101.5,112.8
+mixed with other ingredients,73.99,79.43
+caramelized,0.0,28.63
+caramelized,101.5,112.8

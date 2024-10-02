@@ -1,0 +1,10 @@
+straight
+twisted
+soldered
+cut
+damaged
+exposed
+coiled
+braided
+looped
+connected

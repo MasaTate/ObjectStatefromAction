@@ -1,0 +1,16 @@
+state,start,end
+intact,13.1,13.25
+intact,5.59,7.78
+raw,5.59,7.78
+raw,13.1,16.38
+cracked,13.26,17.52
+runny,3.15,5.2
+runny,30.18,37.19
+cooked,0.24,5.2
+cooked,16.53,24.72
+cooked,26.23,30.0
+cooked,30.18,37.19
+fried,0.24,5.2
+fried,16.53,24.72
+fried,26.23,30.0
+fried,30.18,37.19

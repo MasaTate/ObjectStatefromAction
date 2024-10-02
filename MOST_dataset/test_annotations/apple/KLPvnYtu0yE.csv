@@ -1,0 +1,11 @@
+state,start,end
+whole,40.48,41.26
+cut,41.26,66.83
+sliced,5.9,9.93
+sliced,43.86,69.23
+sliced,92.79,148.66
+sliced,155.89,168.68
+cooked,5.9,9.93
+cooked,155.89,168.68
+baked,5.9,9.93
+baked,155.89,168.68

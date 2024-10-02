@@ -1,0 +1,22 @@
+state,start,end
+intact,13.46,13.645
+intact,16.304,17.0
+intact,10.09,10.909
+raw,75.019,85.588
+raw,10.098,39.039
+cracked,10.921,11.368
+cracked,11.709,11.815
+cracked,12.035,12.673
+cracked,13.652,15.617
+cracked,15.836,16.042
+cracked,17.049,18.17
+whisked,75.019,85.588
+whisked,26.705,39.039
+cooked,85.647,174.375
+cooked,0.029,9.861
+scrambled,0.029,9.861
+scrambled,104.274,174.375
+mixed with other ingredients,0.029,9.861
+mixed with other ingredients,85.647,174.375
+mixed with other ingredients,20.196,39.039
+mixed with other ingredients,75.019,85.588

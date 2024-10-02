@@ -1,0 +1,12 @@
+state,start,end
+intact,0.77,5.49
+raw,0.77,10.2
+raw,34.1,36.8
+poached,36.8,67.84
+poached,69.1,82.64
+poached,83.16,98.6
+cracked,6.41,9.7
+runny,92.26,98.6
+cooked,36.8,67.84
+cooked,69.1,82.64
+cooked,83.16,98.6

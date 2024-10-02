@@ -1,0 +1,14 @@
+state,start,end
+raw,41.5,53.7
+cracked,41.51,42.79
+cracked,44.14,45.52
+cracked,45.75,47.12
+runny,2.81,9.89
+runny,77.0,92.79
+cooked,0.0,9.89
+cooked,61.71,92.79
+baked,0.0,9.89
+baked,61.71,92.79
+mixed with other ingredients,41.5,60.94
+mixed with other ingredients,61.71,92.79
+mixed with other ingredients,0.0,9.89

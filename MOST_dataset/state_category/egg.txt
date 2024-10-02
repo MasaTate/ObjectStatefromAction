@@ -1,0 +1,13 @@
+intact
+raw
+boiled
+poached
+cracked
+runny
+whisked
+cooked
+fried
+scrambled
+foamy
+baked
+mixed with other ingredients

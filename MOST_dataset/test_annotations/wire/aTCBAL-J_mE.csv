@@ -1,0 +1,15 @@
+state,start,end
+straight,0.47,10.63
+straight,11.14,15.19
+straight,15.27,24.19
+straight,24.55,59.7
+straight,60.17,70.17
+straight,77.33,92.634
+soldered,32.86,44.54
+soldered,46.8,59.19
+soldered,60.17,79.44
+exposed,4.77,10.63
+exposed,11.14,15.19
+exposed,15.27,24.19
+exposed,24.55,59.19
+exposed,60.17,79.44

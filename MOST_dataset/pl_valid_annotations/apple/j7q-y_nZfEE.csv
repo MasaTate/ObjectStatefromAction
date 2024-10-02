@@ -1,0 +1,18 @@
+state,start,end
+whole,34.181,90.272
+whole,98.09,116.545
+whole,117.09,128.181
+whole,130.09,136.272
+cut,136.909,151.909
+cut,167.181,202.272
+cut,203.636,207.818
+cooked,209.363,214.363
+cooked,215.909,234.181
+cooked,255.818,271.181
+baked,209.363,214.363
+baked,215.909,234.181
+baked,255.818,271.181
+mixed with other ingredients,223.727,234.181
+mixed with other ingredients,255.818,271.181
+caramelized,223.727,234.181
+caramelized,255.818,271.181

@@ -1,0 +1,16 @@
+state,start,end
+dry,0.8,3.612
+dry,24.376,27.156
+mixed with water,2.037,5.382
+mixed with water,25.663,44.024
+mixed with water,44.416,51.059
+mixed with water,53.774,69.878
+lumpy,30.92,44.024
+lumpy,44.416,51.059
+lumpy,53.774,69.878
+kneaded (dough),69.878,73.955
+kneaded (dough),74.071,90.223
+flattened,90.223,122.459
+flattened,122.6,129.42
+fried,124.42,156.142
+fried,156.34,174.906

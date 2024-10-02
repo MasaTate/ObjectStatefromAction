@@ -1,0 +1,11 @@
+state,start,end
+dry,0.0,2.902
+dry,10.04,61.0
+dry,2.9,9.454
+dry,61.0,89.39
+smooth,6.01,9.46
+smooth,82.958,89.39
+smooth,0.0,2.902
+smooth,10.04,61.0
+folded,2.903,9.457
+folded,61.0,89.39

@@ -1,0 +1,25 @@
+state,start,end
+dry,241.0,281.0
+dry,292.0,311.0
+mixed with water,312.0,341.0
+combined with other ingredients,241.0,281.0
+combined with other ingredients,292.0,518.0
+combined with other ingredients,618.181,804.818
+combined with other ingredients,828.818,855.181
+combined with other ingredients,858.636,882.272
+combined with other ingredients,885.0,886.272
+combined with other ingredients,887.636,894.363
+combined with other ingredients,895.0,906.636
+combined with other ingredients,907.476,922.714
+combined with other ingredients,932.571,964.0
+lumpy,313.0,379.0
+kneaded (dough),381.0,518.0
+kneaded (dough),618.0,642.0
+fried,828.818,855.181
+fried,858.636,882.272
+fried,885.0,886.272
+fried,887.636,894.363
+fried,895.0,906.636
+fried,907.476,922.714
+fried,932.571,964.0
+fried,643.0,804.818

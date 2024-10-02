@@ -1,0 +1,14 @@
+state,start,end
+sliced,0.0,13.06
+sliced,16.98,24.95
+sliced,25.0,37.72
+sliced,73.96,76.392
+cooked,21.58,24.95
+cooked,25.0,37.72
+cooked,51.67,73.82
+cooked,73.96,76.392
+baked,73.96,76.392
+baked,51.68,73.83
+caramelized,21.58,24.95
+caramelized,25.0,37.72
+caramelized,73.96,76.392

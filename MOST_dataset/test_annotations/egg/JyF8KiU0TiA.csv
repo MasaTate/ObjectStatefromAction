@@ -1,0 +1,20 @@
+state,start,end
+intact,5.24,6.3
+intact,7.11,8.81
+raw,90.81,102.78
+raw,5.24,6.3
+raw,7.11,10.21
+raw,10.4,44.26
+raw,46.44,53.81
+cracked,15.63,16.0
+runny,114.975,136.3
+whisked,26.77,44.26
+whisked,46.44,53.81
+whisked,90.814,102.785
+cooked,0.0,5.08
+cooked,114.975,163.99
+cooked,164.1,176.334
+scrambled,0.0,5.08
+scrambled,114.975,163.99
+scrambled,164.1,176.334
+mixed with other ingredients,35.26,44.26

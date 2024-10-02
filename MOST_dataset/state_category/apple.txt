@@ -1,0 +1,11 @@
+whole
+peeled
+grated
+cut
+sliced
+cooked
+baked
+smooth
+dried
+mixed with other ingredients
+caramelized

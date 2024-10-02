@@ -1,0 +1,24 @@
+state,start,end
+whole,287.28,295.66
+whole,308.72,323.99
+whole,2.19,33.59
+peeled,18.76,31.66
+cut,32.65,55.66
+sliced,0.0,8.96
+sliced,45.94,55.66
+sliced,55.93,69.63
+sliced,116.42,187.0
+sliced,199.3,228.69
+sliced,236.53,265.31
+sliced,276.74,308.69
+cooked,0.01,8.88
+cooked,117.11,187.0
+cooked,199.3,228.69
+cooked,236.53,265.31
+cooked,276.74,308.69
+mixed with other ingredients,121.85,140.53
+caramelized,0.0,8.96
+caramelized,276.74,308.69
+caramelized,117.11,187.0
+caramelized,199.3,228.69
+caramelized,236.53,265.31

@@ -1,0 +1,21 @@
+state,start,end
+dry,4.99,10.13
+dry,10.43,15.0
+dry,15.68,20.02
+dry,20.533,30.316
+dry,30.866,35.933
+mixed with water,36.5,65.2
+combined with other ingredients,149.15,153.4
+combined with other ingredients,155.85,161.55
+combined with other ingredients,161.95,164.5
+combined with other ingredients,1.79,3.99
+lumpy,70.9,82.05
+lumpy,36.5,65.2
+kneaded (dough),0.0,3.99
+kneaded (dough),82.3,89.05
+kneaded (dough),95.1,101.05
+kneaded (dough),108.95,119.45
+flattened,155.85,161.55
+flattened,119.5,153.4
+baked,161.95,164.5
+baked,1.79,3.99

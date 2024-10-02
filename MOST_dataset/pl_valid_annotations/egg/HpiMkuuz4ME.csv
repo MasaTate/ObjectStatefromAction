@@ -1,0 +1,35 @@
+state,start,end
+intact,75.363,80.545
+raw,171.545,184.545
+raw,75.363,80.545
+raw,80.818,84.909
+raw,132.545,155.09
+raw,87.636,99.727
+cracked,80.818,84.909
+whisked,87.636,99.727
+whisked,132.545,155.09
+whisked,155.181,167.818
+whisked,170.181,171.454
+whisked,220.636,269.818
+whisked,275.999,284.454
+whisked,294.454,330.181
+whisked,173.454,178.363
+whisked,184.636,185.363
+whisked,196.999,215.09
+cooked,184.636,215.09
+cooked,155.181,167.818
+cooked,170.181,171.454
+cooked,220.636,269.818
+cooked,275.999,284.454
+cooked,294.454,330.181
+foamy,185.818,196.909
+foamy,178.454,184.545
+mixed with other ingredients,91.909,99.727
+mixed with other ingredients,196.999,215.09
+mixed with other ingredients,132.545,155.09
+mixed with other ingredients,155.181,167.818
+mixed with other ingredients,170.181,171.454
+mixed with other ingredients,184.636,185.363
+mixed with other ingredients,220.636,269.818
+mixed with other ingredients,275.999,284.454
+mixed with other ingredients,294.454,330.181

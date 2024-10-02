@@ -1,0 +1,67 @@
+state,start,end
+intact,32.999,42.363
+intact,50.272,61.909
+intact,68.727,74.181
+intact,74.272,91.999
+raw,324.363,328.363
+raw,338.181,366.363
+raw,373.09,377.272
+raw,382.727,388.999
+raw,394.909,402.818
+raw,415.818,420.909
+raw,427.818,462.999
+raw,476.999,481.999
+raw,32.999,42.363
+raw,50.272,61.909
+raw,68.454,118.818
+raw,123.181,129.636
+raw,135.454,144.181
+cracked,74.09,89.363
+cracked,92.09,101.999
+whisked,116.272,118.818
+whisked,123.181,129.636
+whisked,135.454,144.181
+whisked,163.818,170.545
+whisked,176.727,191.181
+whisked,227.545,267.818
+whisked,279.09,296.454
+whisked,316.363,321.818
+whisked,490.363,492.545
+whisked,496.545,503.636
+whisked,507.909,534.818
+whisked,545.545,586.999
+whisked,716.181,750.363
+whisked,765.181,771.818
+whisked,777.727,792.727
+whisked,797.272,804.818
+whisked,816.181,834.454
+whisked,848.09,854.272
+whisked,476.999,481.999
+whisked,347.909,366.363
+whisked,373.09,377.272
+whisked,382.727,388.999
+whisked,394.909,402.818
+whisked,415.818,420.909
+whisked,427.818,462.999
+foamy,347.909,366.363
+foamy,373.09,377.272
+foamy,382.727,388.999
+foamy,394.909,402.818
+foamy,415.818,420.909
+foamy,427.818,462.999
+foamy,476.999,481.999
+mixed with other ingredients,163.818,170.545
+mixed with other ingredients,176.727,191.181
+mixed with other ingredients,227.545,267.818
+mixed with other ingredients,279.09,296.454
+mixed with other ingredients,316.363,321.818
+mixed with other ingredients,490.363,492.545
+mixed with other ingredients,496.545,503.636
+mixed with other ingredients,507.909,534.818
+mixed with other ingredients,545.545,586.999
+mixed with other ingredients,716.181,750.363
+mixed with other ingredients,765.181,771.818
+mixed with other ingredients,777.727,792.727
+mixed with other ingredients,797.272,804.818
+mixed with other ingredients,816.181,834.454
+mixed with other ingredients,848.09,854.272
