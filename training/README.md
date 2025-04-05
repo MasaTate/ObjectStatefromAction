@@ -1,0 +1,2 @@
+# Training
+Currently, we only release the [**video ids used for training**](./video_ids/). These ids are from the [HowTo100M Dataset](https://www.di.ens.fr/willow/research/howto100m/) and correspond to YouTube video IDs, which can be used to download the videos using tools like yt-dlp.
