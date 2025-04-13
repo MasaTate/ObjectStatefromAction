@@ -1,0 +1,12 @@
+{
+    "The wire is straight": "\"The wire is straight\" refers to the state of a straight wire or cable that has not been coiled or twisted. A wire can become straight by pulling it and add tension to it.",
+    "The wire is twisted": "\"The wire is twisted\" refers to the state of a wire or cable that has been rotated around itself or another wire, causing it to form a helical or spiral shape.",
+    "The wire is soldered": "\"The wire is soldered\" refers to the state of a wire that has been joined or attached to another component using solder. If the solder is not used, it is not soldered.",
+    "The wire is cut": "\"The wire is cut\" refers to the state of a wire or cable that has been cut using a tool such as a wire cutter. If the end of cut wire is connected to the other end or to another component, it is not cut anymore.",
+    "The wire is damaged": "\"The wire is damaged\" refers to the state of a wire or cable that has been damaged or broken. If the wire is intentionally cut, stripped, or soldered, it is not considered damaged.",
+    "The wire is exposed": "\"The wire is exposed\" refers to the state of a wire or cable with its skin or insulation removed, exposing the metal underneath. If the exposed wire is connected to another component, it is not exposed anymore.",
+    "The wire is coiled": "\"The wire is coiled\" refers to the state of a coiled wire or cable that has been wrapped around itself or another wire, causing it to form a helical or spiral shape. We don't say it is coiled if it has only one loop.",
+    "The wire is braided": "\"The wire is braided\" refers to the state of a wire that has been woven or interlaced into a braided pattern.",
+    "The wire is looped": "\"The wire is looped\" refers to the state of a wire that has been bent into a loop or circle. If wires are tangled, it is not looped. If a wire is not looped if it is coiled.",
+    "The wire is connected": "\"The wire is connected\" refers to the state of a wire or cable that has been attached to another component or element (not wire). If the wire is connected with another wire, we don't say it is not connected."
+}
