@@ -12,6 +12,7 @@
 
 
 ### 🚀 **News**
+- [April 2025] We released the [**evaluation code for CLIP baseline**](./baseline/) on MOST Dataset.
 - [April 2025] We released the list of [**video ids for training**](./training/video_ids/).
 - [Oct 2024] We are excited to release the [**MOST** dataset](./MOST_dataset/) as part of this project!  
 - [Sep 2024] We are happy to announce our paper has been accepted for **WACV 2025🎉**
